@@ -77,4 +77,5 @@ In the future, this portfolio can be enhanced by adding:
 This Task 3 Personal Portfolio Webpage helped me strengthen my frontend development skills and understand how real portfolio websites are structured. It is a beginner-friendly yet professional project that can be further expanded as I continue learning new technologies. This project reflects my dedication to learning web development and building clean, responsive, and user-friendly interfaces.
 
 **OUTPUTS**
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39df622c-cae7-4628-8f2c-4a478aeb3483" />
