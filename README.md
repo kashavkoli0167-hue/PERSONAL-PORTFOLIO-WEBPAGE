@@ -74,7 +74,7 @@ In the future, this portfolio can be enhanced by adding:
 - More real-world projects
 - React-based version of the portfolio
 
-This Task 3 Personal Portfolio Webpage helped me strengthen my frontend development skills and understand how real portfolio websites are structured. It is a beginner-friendly yet professional project that can be further expanded as I continue learning new technologies. This project reflects my dedication to learning web development and building clean, responsive, and user-friendly interfaces.
+This Personal Portfolio Webpage helped me strengthen my frontend development skills and understand how real portfolio websites are structured. It is a beginner-friendly yet professional project that can be further expanded as I continue learning new technologies. This project reflects my dedication to learning web development and building clean, responsive, and user-friendly interfaces.
 
 **OUTPUTS**
 
