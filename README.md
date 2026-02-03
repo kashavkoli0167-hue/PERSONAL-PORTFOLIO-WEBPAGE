@@ -13,8 +13,7 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
 
 
-**PROJECT OVERVIEW**
-
+**PROJECT OVERVIEW** --
 This project is a Personal Portfolio Webpage. The main goal of this project is to design and develop a clean, modern, and responsive portfolio website using HTML and CSS. This portfolio represents my personal profile as a frontend developer and showcases my skills, projects, and contact details in a professional way.
 A personal portfolio website is very important for developers because it works as a digital resume. It allows recruiters, clients, and other developers to understand who you are, what skills you have, and what kind of projects you have worked on. This project focuses on building a strong foundation in frontend development by using semantic HTML structure and modern CSS styling techniques.
 
